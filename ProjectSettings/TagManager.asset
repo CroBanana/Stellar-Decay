@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  - Pistol
+  - Rifle
+  - Flashlight
+  - Flare
+  - Grenade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - GroundCheck
+  - Ground
+  - DestructableZombie
+  - Enemy
+  - Other Zombies Detection
+  - DeadZombies
+  - Throwable
+  - Uneffected by navmeshBaking
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
